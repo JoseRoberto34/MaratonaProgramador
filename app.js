@@ -6,7 +6,7 @@
     angular
     .module('app1',[])
     .controller ('controlador1', function ($scope){
-              $scope.nome = 'Roberto';
+              $scope.nome ='Roberto';
             
     });
     angular
